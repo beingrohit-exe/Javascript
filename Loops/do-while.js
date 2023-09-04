@@ -2,4 +2,4 @@ var num = 20;
 do{
     console.log(num);
     num++;
-} while(num<=25);
+} while(num<=10);
