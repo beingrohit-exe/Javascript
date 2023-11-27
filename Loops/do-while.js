@@ -1,4 +1,4 @@
-var num = 20;
+var num = 10;
 do{
     console.log(num);
     num++;
